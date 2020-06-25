@@ -1,13 +1,10 @@
 List packages in channel KodeStudio
-
-[Name]                                 [Feature/Info]
-
-black-icon-flaticon                    Icon pack form Flaticon
-
-project-desktop                        Desktop project for KodePas 
-
-lcl-2.1                                LCL Native 2.1
-
-fpc-3.0.4                              Free Pascal Custom (Native) for KodePas (3.0.4)
-
-pas2js                                 Convert Pascal to JavaScript (for Webdevelopment)
+[Num]     [Name]                                    [Feature/Info]
+1.   black-icon-flaticon                        Icon pack form Flaticon
+2.   project-native                             Native project for Kode
+3.   lcl-2.1                                    LCL Native 2.1
+4.   lcl-2.0.8			                Beta LCL 2.0.8 (With GTK3+,...)
+5.   fpc-3.0.4                                  Free Pascal Custom (Native) for Kode (3.0.4)
+6.   pas2js                                     Convert Pascal to JavaScript (for Webdevelopment)
+7.   packager-2.0.8                             System Packager 2.0.8
+8.   components-2.0.8		                System components 2.0.8
